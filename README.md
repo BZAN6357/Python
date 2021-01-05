@@ -1,5 +1,5 @@
 # Python
-In this project, we analyze the data from 2000 customers to prepare two predictive models using ANN.
+In this project, we analyze the data from 2000 customers to prepare two predictive models using Artificial Neural Networks.
 The objective is to determine wheter a cutomer will buy or not an insurance.
 
 The main libraries used in this project are: pandas, numpy, sklearn, keras:
